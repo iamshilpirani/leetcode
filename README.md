@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/iamshilpirani/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/iamshilpirani/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/iamshilpirani/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/iamshilpirani/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/iamshilpirani/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/iamshilpirani/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/iamshilpirani/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/iamshilpirani/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/iamshilpirani/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/iamshilpirani/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/iamshilpirani/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/iamshilpirani/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/iamshilpirani/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/iamshilpirani/leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/iamshilpirani/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
