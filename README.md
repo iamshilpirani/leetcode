@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/iamshilpirani/leetcode/tree/master/0035-search-insert-position) |
 | [0347-top-k-frequent-elements](https://github.com/iamshilpirani/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/iamshilpirani/leetcode/tree/master/0203-remove-linked-list-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/iamshilpirani/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
