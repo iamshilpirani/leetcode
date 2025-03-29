@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/iamshilpirani/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/iamshilpirani/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
