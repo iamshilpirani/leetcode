@@ -78,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/iamshilpirani/leetcode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/iamshilpirani/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/iamshilpirani/leetcode/tree/master/0183-customers-who-never-order) |
+| [0595-big-countries](https://github.com/iamshilpirani/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
